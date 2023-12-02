@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Exploring all the Universe",
+      "description": "Embark on a cosmic journey through space, discovering celestial wonders and unraveling the mysteries of distant galaxies. Join us as we delve into the vastness of the cosmos.",
+      "likesCount": 1500
+    },
+    {
+      "id": 2,
+      "title": "The Art of Photography",
+      "description": "Capture moments frozen in time with the artistry of photography. Learn the techniques, perspectives, and nuances that make every snapshot a unique masterpiece.",
+      "likesCount": 1100
+    },
+    {
+      "id": 3,
+      "title": "Healthy Eating Habits",
+      "description": "Discover the keys to maintaining a balanced diet and nourishing your body with wholesome foods. Explore recipes, nutrition tips, and sustainable eating habits.",
+      "likesCount": 980
+    },
+    {
+      "id": 4,
+      "title": "Mastering Productivity",
+      "description": "Unlock your full potential and boost productivity with effective strategies, time management techniques, and tools to achieve your goals efficiently.",
+      "likesCount": 1450
+    },
+    {
+      "id": 5,
+      "title": "DIY Home Improvement",
+      "description": "Transform your living space with creative do-it-yourself home improvement projects. Get inspired and learn practical tips for renovations and decor.",
+      "likesCount": 670
+    },
+    {
+      "id": 6,
+      "title": "Mindfulness Meditation",
+      "description": "Embrace tranquility and inner peace through mindfulness meditation practices. Experience the benefits of mindfulness for mental well-being and relaxation.",
+      "likesCount": 1150
+    }
+  ]
+}
